@@ -10,4 +10,4 @@ function longestName(people) {
   // TODO: Your code here
 }
 
-longestName(people); // => {name: {first: "Alyssa", middle: "P.", last: "Hacker"}, age: 26}
+longestName(people); //"Alyssa P. Hacker"
