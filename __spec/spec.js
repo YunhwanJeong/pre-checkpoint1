@@ -4,7 +4,7 @@ const srcGetFullName = fs.readFileSync('./getFullName/getFullName.js');
 const srcLongestName = fs.readFileSync('./longestName/longestName.js');
 const srcRange = fs.readFileSync('./range/range.js');
 const srcHammingDistance = fs.readFileSync('./hammingDistance/hammingDistance.js');
-const srcOfflineMinimum = fs.readFileSync('./offlineMinimum/offlineMinimum.js');
+const srcOfflineMinimum = fs.readFileSync('./offLineMinimum/offLineMinimum.js');
 
 
 describe('', () => {
