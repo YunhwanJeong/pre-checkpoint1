@@ -20,9 +20,9 @@
 
 각각의 prompt 를 완료한 후, `README.md` 파일을 수정해서 grade 를 작성하시면 됩니다. 위의 Grading Outline 섹션의 [ ] 에 grade 를 스스로 매기시길 바랍니다. ([Grading Scale](/grading-scale.md) 를 참고)
 
-## Javascript Syntax Check
+## Code Check
 
-`syntaxalyze.html` 이 포함되어 있습니다. 브라우저에서 `syntaxalyze.html` 을 열고 solution files 을 그 페이지에 드래그해서 놓으면 syntax check 를 합니다. 에러들이 나오면 모두 수정하시기 바랍니다. 에러들이 수정됐는지 알기 위해서는 solution files 을 매번 다시 드래그 해야합니다.(단순히 refresh 하는 것으로는 체크할 수 없습니다.)
+`SpecRunner.html` 파일을 통해, 구현한 각각의 과제가 테스트를 통과하는지 확인할 수 있습니다. 테스트의 자세한 내용은 `__spec/spec.js` 파일을 통해 확인할 수 있습니다.
 
 ## Submitting Solutions
 
