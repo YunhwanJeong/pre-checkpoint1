@@ -9,7 +9,7 @@ if(typeof module === "object" && typeof module.exports === "object") {
 }
 
 
-describe('Self Assessments 1', () => {
+describe('Checkpoint 1', () => {
 
   it('billTotal', () => {
     if(typeof module === "object" && typeof module.exports === "object") {

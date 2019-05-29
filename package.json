@@ -1,21 +1,21 @@
 {
-  "name": "pre24-2018-06-self-assessments-01-new",
+  "name": "PRE-checkpoint1",
   "version": "1.0.0",
-  "description": "## Guidelines",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest __spec/spec.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codestates/pre24-2018-06-self-assessments-01.git"
+    "url": "git+https://github.com/codestates/PRE-checkpoint1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codestates/pre24-2018-06-self-assessments-01/issues"
+    "url": "https://github.com/codestates/PRE-checkpoint1/issues"
   },
-  "homepage": "https://github.com/codestates/pre24-2018-06-self-assessments-01#readme",
+  "homepage": "https://github.com/codestates/PRE-checkpoint1#readme",
   "devDependencies": {
     "jest": "^23.6.0"
   }
