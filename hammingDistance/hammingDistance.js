@@ -1,5 +1,13 @@
+/**pseudo code
+ * 
+ * -strArr 입력
+ *  -hammingDistanceCount
+ *  -두 str의 character들 비교
+ *   -
+ */
+
 function hammingDistance(strArr) {
-  // YOUR CODE HERE
+  
   return
 }
 
