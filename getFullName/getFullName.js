@@ -1,6 +1,9 @@
 function getFullName(obj) {
-  // YOUR CODE HERE
-  return
+  if(!("middle" in obj.name)) {
+    return obj.name.first + " " + obj.name.last;
+  } else {
+    return obj.name.first + " " + obj.name.middle + " " + obj.name.last;
+  }
 }
 
 var person = {
