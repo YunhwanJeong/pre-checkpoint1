@@ -5,5 +5,4 @@ function billTotal(subtotal) {
   return subtotal + tip + tax;
 }
 
-
 billTotal(10.00); // => 12.45
