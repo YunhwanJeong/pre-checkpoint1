@@ -31,8 +31,6 @@ offLineMinimum(["4","E","1","E","2","E","3","E"]); // => '4,1,2,3'
 
 
 
-
-
 // function offLineMinimum(strArr) {
 //   let result = [];
 //   let toNum = (el) => Number(el);
