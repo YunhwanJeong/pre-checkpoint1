@@ -6,7 +6,6 @@
  *   -다르면 hammingDistanceCount +
  *   -return hammingDistanceCount
  */
-
 function hammingDistance(strArr) {
   let hammingDistanceCount = 0;
   let str1 = strArr[0];
