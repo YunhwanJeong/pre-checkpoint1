@@ -11,7 +11,6 @@ var people = [
  *  -map 활용
  *  -reduce 활용
  */
-
 function longestName(people) {
   let getFullName = function(obj) {
     if(!("middle" in obj.name)) {
