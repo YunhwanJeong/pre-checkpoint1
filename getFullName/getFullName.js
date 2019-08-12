@@ -23,4 +23,5 @@ var personB = {
   },
   age: 34
 };
+
 getFullName(personB); //"Ben Bitdiddle"
